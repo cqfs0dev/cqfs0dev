@@ -1,5 +1,7 @@
 # 💫 About Me:
-Etude : Bac pro cybersécurité, informatique<br>et réseaux, électronique (CIEL)<br><br> 🕵️ Compétences :<br>Web designer (Site Mairie en Local, Portfolio aider par IA)<br>CTF (Passe Ton Hack d’Abord, TryHackMe, Rootme, Hack The Box)(OSINT)<br>Infrastructure réseaux (Apprentissage) <br>Pentest (Scan passif, énumération, test d'intrusion<br>Apprentissage de l'OSINT & Géoint<br>Veille Numérique<brreal AI systems<br>Apprentissage des différents langages de programmation & Outils<br>Certifications : <br>Passe Ton Hack d’Abord (730 point #63)<br>Exploring Networking 
+Etude : Bac pro cybersécurité, informatique<br>et réseaux, électronique (CIEL)<br><br> 🕵️ Compétences :<br>Web designer (Site Mairie en Local, Portfolio aider par IA)<br>CTF (Passe Ton Hack d’Abord, TryHackMe, Rootme, Hack The Box)(OSINT)<br>Infrastructure réseaux (Apprentissage) <br>Pentest (Scan passif, énumération, test d'intrusion<br>Apprentissage de l'OSINT & Géoint<br>Veille Numérique<brreal AI systems<br>Apprentissage des différents langages de programmation & Outils<br>
+
+🎓 Certifications : <br>Passe Ton Hack d’Abord (730 point #63)<br>
 
 ## 🌐 Socials:
 <p align="left">
