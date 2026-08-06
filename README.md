@@ -2,7 +2,7 @@
 Etude : Bac pro cybersécurité, informatique<br>et réseaux, électronique (CIEL)<br><br>Compétences :<br>Web designer (Site Mairie en Local)<br>CTF (Passe Ton Hack d’Abord) (OSINT)<br>Infrastructure réseaux (Apprentissage) <br>Pentest (Scan passif, énumération, test d'intrusion<br>Apprentissage de l'OSINT & Géoint<br>Certifications : <br>Passe Ton Hack d’Abord (730 point #63)<br>Exploring Networking 
 
 ## 🌐 Socials:
-<p align="right">
+<p align="left">
   <a href="https://cqfs0devv.netlify.app/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-0A66C2?style=for-the-badge">
   </a>
