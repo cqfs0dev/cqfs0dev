@@ -4,7 +4,7 @@ Etude : Bac pro cybersécurité, informatique<br>et réseaux, électronique (CIE
 ## 🌐 Socials:
 <p align="left">
   <a href="https://cqfs0devv.netlify.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-0A66C2?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Portfolio--0A66C2?style=for-the-badge">
   </a>
 
   <img src="discord_fake_avatar_decorations_1785860769608.gif" width="80">
