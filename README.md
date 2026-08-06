@@ -2,8 +2,7 @@
 Etude : Bac pro cybersécurité, informatique<br>et réseaux, électronique (CIEL)
 <br> 🕵️ Compétences :<br>Web designer (Site Mairie en Local, Portfolio aider par IA)<br>CTF (Passe Ton Hack d’Abord, TryHackMe, Rootme, Hack The Box)(OSINT)<br>Infrastructure réseaux (Apprentissage) <br>Pentest (Scan passif, énumération, test d'intrusion<br>Apprentissage de l'OSINT & Géoint<br>Veille Numérique<br>LEARNING AI Security<br>Apprentissage des différents langages de programmation & Outils<br>
 
-🎓 Certifications : <br> </> Passe Ton Hack d’Abord (730 point #63)<br>
-                    <br> 🗺️ Maltego for Cybercrime Investigations<br>
+🎓 Certifications : <br> </> Passe Ton Hack d’Abord (730 point #63)<br> 🗺️ Maltego for Cybercrime Investigations<br>
 ## 🌐 Socials:
 <p align="left">
   <a href="https://cqfs0devv.netlify.app/">
