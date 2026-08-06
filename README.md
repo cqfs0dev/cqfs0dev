@@ -3,7 +3,15 @@ Etude : Bac pro cybersécurité, informatique<br>et réseaux, électronique (CIE
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg)
-[![Website](https://img.shields.io/badge/🌐_Portfolio-Visiter-0A66C2?style=for-the-badge)](https://cqfs0devv.netlify.app/)
+<p align="center">
+  <a href="https://cqfs0devv.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-0A66C2?style=for-the-badge">
+  </a>
+
+  <img src="discord_fake_avatar_decorations_1785860769608.gif" width="80">
+</p>
+
+
 # 💻 Tech Stack:
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
