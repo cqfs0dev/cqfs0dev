@@ -1,9 +1,9 @@
 # 💫 About Me:
-Etude : Bac pro cybersécurité, informatique<br>et réseaux, électronique (CIEL)<br><br>Compétences :<br>🖼️ Web designer (Site Mairie en Local)<br>📍 CTF (Passe Ton Hack d’Abord) (OSINT)<br>🛜 Infrastructure réseaux (Apprentissage) <br>Pentest (Scan passif, énumération, test d'intrusion<br>Apprentissage de l'OSINT & Géoint<br>Certifications : <br>Passe Ton Hack d’Abord (730 point #63)<br>Exploring Networking 
+Etude : Bac pro cybersécurité, informatique<br>et réseaux, électronique (CIEL)<br><br>Compétences :<br>Web designer (Site Mairie en Local)<br>CTF (Passe Ton Hack d’Abord) (OSINT)<br>Infrastructure réseaux (Apprentissage) <br>Pentest (Scan passif, énumération, test d'intrusion<br>Apprentissage de l'OSINT & Géoint<br>Certifications : <br>Passe Ton Hack d’Abord (730 point #63)<br>Exploring Networking 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg)
-[![Website].](https://cqfs0devv.netlify.app/).
+[![Website].(https://img.shields.io/badge/Mon-Badge-blue?style=for-the-badge&logo=https://discord_fake_avatar_decorations_1785860769608.gif)](https://cqfs0devv.netlify.app/).
 
 # 💻 Tech Stack:
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
